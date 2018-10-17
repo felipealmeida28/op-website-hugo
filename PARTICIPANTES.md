@@ -43,6 +43,7 @@ Ao adicionar o seu nome, por favor observe:
 | Giovanni Martins              | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20       |
 | Hamon de Córdova Jorge        | hamoncj@gmail.com                     | https://github.com/hamonCordova       |
 | Hemílio Lauro de Araújo Melo  | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo      |
+| José Felipe Almeida Soares    | felipealmeida281997@hotmail.com       | https://github.com/felipealmeida28    |
 | Júlio César Santos            | stjuliomn@gmail.com                   | https://github.com/juliocst           |
 | Kaio Campos                   | kaiocamposti@gmail.com                | https://github.com/kaiocampos         |
 | Lauro Silveira Neto           | laurosn@gmail.com                     | https://github.com/laurosn            |
@@ -78,4 +79,4 @@ Ao adicionar o seu nome, por favor observe:
 | Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos   |
 | Wesley de Assis               | wesleyassis455@gmail.com              | https://github.com/Choco02            |
 | William da Rosa Garcia        | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
-| José Felipe Almeida Soares    | felipealmeida281997@hotmail.com       | https://github.com/felipealmeida28    |
+
